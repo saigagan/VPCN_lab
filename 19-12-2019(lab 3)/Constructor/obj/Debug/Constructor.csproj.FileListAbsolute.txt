@@ -1,0 +1,6 @@
+D:\17B81A05H4\.VPCNLab-master\19-12-2019\Constructor\bin\Debug\Constructor.exe.config
+D:\17B81A05H4\.VPCNLab-master\19-12-2019\Constructor\bin\Debug\Constructor.exe
+D:\17B81A05H4\.VPCNLab-master\19-12-2019\Constructor\bin\Debug\Constructor.pdb
+D:\17B81A05H4\.VPCNLab-master\19-12-2019\Constructor\obj\Debug\Constructor.csprojResolveAssemblyReference.cache
+D:\17B81A05H4\.VPCNLab-master\19-12-2019\Constructor\obj\Debug\Constructor.exe
+D:\17B81A05H4\.VPCNLab-master\19-12-2019\Constructor\obj\Debug\Constructor.pdb

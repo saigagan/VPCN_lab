@@ -1,0 +1,6 @@
+C:\Users\cb20457\Desktop\17B81A05H4\02-01-20(lab4)\TupleDemo\bin\Debug\TupleDemo.exe.config
+C:\Users\cb20457\Desktop\17B81A05H4\02-01-20(lab4)\TupleDemo\bin\Debug\TupleDemo.exe
+C:\Users\cb20457\Desktop\17B81A05H4\02-01-20(lab4)\TupleDemo\bin\Debug\TupleDemo.pdb
+C:\Users\cb20457\Desktop\17B81A05H4\02-01-20(lab4)\TupleDemo\obj\Debug\TupleDemo.csprojResolveAssemblyReference.cache
+C:\Users\cb20457\Desktop\17B81A05H4\02-01-20(lab4)\TupleDemo\obj\Debug\TupleDemo.exe
+C:\Users\cb20457\Desktop\17B81A05H4\02-01-20(lab4)\TupleDemo\obj\Debug\TupleDemo.pdb

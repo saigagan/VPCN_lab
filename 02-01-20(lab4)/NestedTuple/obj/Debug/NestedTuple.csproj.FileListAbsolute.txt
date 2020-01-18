@@ -1,0 +1,6 @@
+C:\Users\cb20457\Desktop\17B81A05H4\02-01-20(lab4)\NestedTuple\bin\Debug\NestedTuple.exe.config
+C:\Users\cb20457\Desktop\17B81A05H4\02-01-20(lab4)\NestedTuple\bin\Debug\NestedTuple.exe
+C:\Users\cb20457\Desktop\17B81A05H4\02-01-20(lab4)\NestedTuple\bin\Debug\NestedTuple.pdb
+C:\Users\cb20457\Desktop\17B81A05H4\02-01-20(lab4)\NestedTuple\obj\Debug\NestedTuple.csprojResolveAssemblyReference.cache
+C:\Users\cb20457\Desktop\17B81A05H4\02-01-20(lab4)\NestedTuple\obj\Debug\NestedTuple.exe
+C:\Users\cb20457\Desktop\17B81A05H4\02-01-20(lab4)\NestedTuple\obj\Debug\NestedTuple.pdb
