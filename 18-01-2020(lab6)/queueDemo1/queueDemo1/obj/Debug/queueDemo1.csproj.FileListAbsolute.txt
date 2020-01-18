@@ -1,0 +1,6 @@
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\queueDemo1\queueDemo1\bin\Debug\queueDemo1.exe.config
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\queueDemo1\queueDemo1\obj\Debug\queueDemo1.csprojResolveAssemblyReference.cache
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\queueDemo1\queueDemo1\bin\Debug\queueDemo1.exe
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\queueDemo1\queueDemo1\bin\Debug\queueDemo1.pdb
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\queueDemo1\queueDemo1\obj\Debug\queueDemo1.exe
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\queueDemo1\queueDemo1\obj\Debug\queueDemo1.pdb

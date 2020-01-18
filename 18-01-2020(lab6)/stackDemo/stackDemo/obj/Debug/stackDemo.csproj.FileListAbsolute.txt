@@ -1,0 +1,6 @@
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\stackDemo\stackDemo\bin\Debug\stackDemo.exe.config
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\stackDemo\stackDemo\obj\Debug\stackDemo.csprojResolveAssemblyReference.cache
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\stackDemo\stackDemo\bin\Debug\stackDemo.exe
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\stackDemo\stackDemo\bin\Debug\stackDemo.pdb
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\stackDemo\stackDemo\obj\Debug\stackDemo.exe
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\stackDemo\stackDemo\obj\Debug\stackDemo.pdb
