@@ -1,6 +1,0 @@
-C:\Users\cb204sys5\Desktop\atmservice\atmservice\bin\Debug\atmservice.exe.config
-C:\Users\cb204sys5\Desktop\atmservice\atmservice\bin\Debug\atmservice.exe
-C:\Users\cb204sys5\Desktop\atmservice\atmservice\bin\Debug\atmservice.pdb
-C:\Users\cb204sys5\Desktop\atmservice\atmservice\obj\Debug\atmservice.csprojResolveAssemblyReference.cache
-C:\Users\cb204sys5\Desktop\atmservice\atmservice\obj\Debug\atmservice.exe
-C:\Users\cb204sys5\Desktop\atmservice\atmservice\obj\Debug\atmservice.pdb

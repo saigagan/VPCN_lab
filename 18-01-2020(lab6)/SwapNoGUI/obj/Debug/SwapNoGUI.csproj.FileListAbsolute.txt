@@ -1,0 +1,9 @@
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\SwapNoGUI\bin\Debug\SwapNoGUI.exe.config
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\SwapNoGUI\bin\Debug\SwapNoGUI.exe
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\SwapNoGUI\bin\Debug\SwapNoGUI.pdb
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\SwapNoGUI\obj\Debug\SwapNoGUI.csprojResolveAssemblyReference.cache
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\SwapNoGUI\obj\Debug\SwapNoGUI.Form1.resources
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\SwapNoGUI\obj\Debug\SwapNoGUI.Properties.Resources.resources
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\SwapNoGUI\obj\Debug\SwapNoGUI.csproj.GenerateResource.Cache
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\SwapNoGUI\obj\Debug\SwapNoGUI.exe
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\SwapNoGUI\obj\Debug\SwapNoGUI.pdb

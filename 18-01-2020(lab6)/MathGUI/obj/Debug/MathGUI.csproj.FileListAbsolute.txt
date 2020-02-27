@@ -1,0 +1,9 @@
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\MathGUI\bin\Debug\MathGUI.exe.config
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\MathGUI\bin\Debug\MathGUI.exe
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\MathGUI\bin\Debug\MathGUI.pdb
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\MathGUI\obj\Debug\MathGUI.csprojResolveAssemblyReference.cache
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\MathGUI\obj\Debug\MathGUI.Form1.resources
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\MathGUI\obj\Debug\MathGUI.Properties.Resources.resources
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\MathGUI\obj\Debug\MathGUI.csproj.GenerateResource.Cache
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\MathGUI\obj\Debug\MathGUI.exe
+C:\Users\cb20457\Desktop\17B81A05H4\18-01-2020(lab6)\MathGUI\obj\Debug\MathGUI.pdb
